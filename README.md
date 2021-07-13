@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @blacksmithMike. I am a student at BYU, Idaho, and I am working on my BS in Software Engineering.
+- I’m interested in almost all things computers, and I am also working on a homestead rasing animals and fruits/veggies.
+- I’m looking to collaborate on anything that will help me further my learning, and my understanding of coding practices.
+- 📫 You can find me on LinkedIn at linkedin.com/in/michael-d-cochran
